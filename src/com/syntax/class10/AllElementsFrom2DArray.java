@@ -29,6 +29,7 @@ public class AllElementsFrom2DArray {
 			System.out.println();
 			
 		}
+		
 
 		
 		
